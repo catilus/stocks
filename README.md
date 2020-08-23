@@ -1,2 +1,3 @@
 # stocks
-Get insights on stocks using data collected from the Finnhub.io API
+Stock market dashboard. 
+Uses data collected from the Finnhub.io API.
